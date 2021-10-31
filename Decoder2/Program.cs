@@ -23,7 +23,7 @@ namespace shitDecoder2
            
            
 
-            using (BinaryReader b = new BinaryReader(File.Open("Font_SC.g1n", FileMode.Open)))
+            using (BinaryReader b = new BinaryReader(File.Open("Font_default.g1n", FileMode.Open)))
             {
 
 
@@ -31,7 +31,7 @@ namespace shitDecoder2
                 // Seek to our required position.
                 b.BaseStream.Seek(0x20064, SeekOrigin.Begin);
 
-                for (int x = 1; x <= 28800; x++)
+                for (int x = 1; x <= 23124; x++)
                 {
                     Console.WriteLine(Convert.ToChar(x + 31));
                     sw.WriteLine("Character: "+ Convert.ToChar(x + 31));
@@ -73,7 +73,7 @@ namespace shitDecoder2
                     int intValue = int.Parse(test, System.Globalization.NumberStyles.HexNumber);
                     int result = SwapEndianness(intValue);
 
-                    result = result + 0x270F0;
+                    result = result + 0x25AC4;
 
 
                     sw.WriteLine("positionFont: " + result.ToString("X") + "\n");
