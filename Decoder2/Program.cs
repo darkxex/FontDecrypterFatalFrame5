@@ -34,7 +34,9 @@ namespace shitDecoder2
                 for (int x = 1; x <= 23124; x++)
                 {
                     Console.WriteLine(Convert.ToChar(x + 31));
+
                     sw.WriteLine("Character: "+ Convert.ToChar(x + 31));
+                    sw.WriteLine("Code: " + (x + 31));
                     // Read the next 2000 bytes.
 
                     byte[] unknown1 = b.ReadBytes(3);
