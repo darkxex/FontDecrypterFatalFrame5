@@ -47,16 +47,16 @@ namespace shitDecoder2
                     int part2 = int.Parse(spliterfont[1], System.Globalization.NumberStyles.HexNumber);
                     if (part2 % 2 == 0)
                     {
-                      sw.WriteLine("Heigth: " + part2 + "\n");
+                      sw.WriteLine("Heigth: " + part2 );
                     }
                     else
-                    { sw.WriteLine("Heigth: " + (part2 + 1) + "\n"); }
+                    { sw.WriteLine("Heigth: " + (part2 + 1) ); }
 
                     if ( part1 % 2 == 0) {
-                        sw.WriteLine("Width: " + part1 + "\n");
+                        sw.WriteLine("Width: " + part1 );
                     }
                     else
-                    { sw.WriteLine("Width: " + (part1 + 1) + "\n"); }
+                    { sw.WriteLine("Width: " + (part1 + 1) ); }
 
                    
 
