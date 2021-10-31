@@ -31,7 +31,7 @@ namespace shitDecoder2
                 // Seek to our required position.
                 b.BaseStream.Seek(0x20064, SeekOrigin.Begin);
 
-                for (int x = 1; x <= 1990; x++)
+                for (int x = 1; x <= 1928; x++)
                 {
                     Console.WriteLine(Convert.ToChar(x + 31));
 
