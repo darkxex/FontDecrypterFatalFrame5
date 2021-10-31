@@ -31,11 +31,14 @@ namespace shitDecoder2
                 // Seek to our required position.
                 b.BaseStream.Seek(0x20064, SeekOrigin.Begin);
 
-                for (int x = 1; x <= 23124; x++)
+                for (int x = 1; x <= 1990; x++)
                 {
                     Console.WriteLine(Convert.ToChar(x + 31));
 
+                    if ((x + 31) < 127)
                     sw.WriteLine("Character: "+ Convert.ToChar(x + 31));
+                    else
+                    sw.WriteLine("Character: not determined, test for yourself what it contains.");
                     sw.WriteLine("Code: " + (x + 31));
                     // Read the next 2000 bytes.
 
