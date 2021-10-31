@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\darkx\\source\\repos\\shitDecoder2\\shitDecoder2\\shitDecoder2.csproj",
-      "projectName": "shitDecoder2",
-      "projectPath": "C:\\Users\\darkx\\source\\repos\\shitDecoder2\\shitDecoder2\\shitDecoder2.csproj",
+      "projectUniqueName": "C:\\Users\\darkx\\Documents\\GitHub\\FontDecrypterFatalFrame5\\Decoder2\\Decoder2.csproj",
+      "projectName": "Decoder2",
+      "projectPath": "C:\\Users\\darkx\\Documents\\GitHub\\FontDecrypterFatalFrame5\\Decoder2\\Decoder2.csproj",
       "packagesPath": "C:\\Users\\darkx\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\darkx\\source\\repos\\shitDecoder2\\shitDecoder2\\obj\\",
+      "outputPath": "C:\\Users\\darkx\\Documents\\GitHub\\FontDecrypterFatalFrame5\\Decoder2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\darkx\\AppData\\Roaming\\NuGet\\NuGet.Config",

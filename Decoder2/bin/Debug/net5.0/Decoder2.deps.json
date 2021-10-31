@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "shitDecoder2/1.0.0": {
+      "Decoder2/1.0.0": {
         "runtime": {
-          "shitDecoder2.dll": {}
+          "Decoder2.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "shitDecoder2/1.0.0": {
+    "Decoder2/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
