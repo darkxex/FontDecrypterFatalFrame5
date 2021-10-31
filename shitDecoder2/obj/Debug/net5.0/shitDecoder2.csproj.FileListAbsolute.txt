@@ -1,0 +1,15 @@
+C:\Users\darkx\source\repos\shitDecoder2\shitDecoder2\bin\Debug\net5.0\shitDecoder2.exe
+C:\Users\darkx\source\repos\shitDecoder2\shitDecoder2\bin\Debug\net5.0\shitDecoder2.deps.json
+C:\Users\darkx\source\repos\shitDecoder2\shitDecoder2\bin\Debug\net5.0\shitDecoder2.runtimeconfig.json
+C:\Users\darkx\source\repos\shitDecoder2\shitDecoder2\bin\Debug\net5.0\shitDecoder2.runtimeconfig.dev.json
+C:\Users\darkx\source\repos\shitDecoder2\shitDecoder2\bin\Debug\net5.0\shitDecoder2.dll
+C:\Users\darkx\source\repos\shitDecoder2\shitDecoder2\bin\Debug\net5.0\ref\shitDecoder2.dll
+C:\Users\darkx\source\repos\shitDecoder2\shitDecoder2\bin\Debug\net5.0\shitDecoder2.pdb
+C:\Users\darkx\source\repos\shitDecoder2\shitDecoder2\obj\Debug\net5.0\shitDecoder2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darkx\source\repos\shitDecoder2\shitDecoder2\obj\Debug\net5.0\shitDecoder2.AssemblyInfoInputs.cache
+C:\Users\darkx\source\repos\shitDecoder2\shitDecoder2\obj\Debug\net5.0\shitDecoder2.AssemblyInfo.cs
+C:\Users\darkx\source\repos\shitDecoder2\shitDecoder2\obj\Debug\net5.0\shitDecoder2.csproj.CoreCompileInputs.cache
+C:\Users\darkx\source\repos\shitDecoder2\shitDecoder2\obj\Debug\net5.0\shitDecoder2.dll
+C:\Users\darkx\source\repos\shitDecoder2\shitDecoder2\obj\Debug\net5.0\ref\shitDecoder2.dll
+C:\Users\darkx\source\repos\shitDecoder2\shitDecoder2\obj\Debug\net5.0\shitDecoder2.pdb
+C:\Users\darkx\source\repos\shitDecoder2\shitDecoder2\obj\Debug\net5.0\shitDecoder2.genruntimeconfig.cache
